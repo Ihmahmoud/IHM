@@ -1,0 +1,14 @@
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\bin\Debug\IHM.exe.config
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.Main.resources
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.Resources.resources
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.vbproj.GenerateResource.Cache
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\bin\Debug\IHM.exe
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\bin\Debug\IHM.pdb
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\bin\Debug\IHM.xml
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.exe
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.xml
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.pdb
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.MAT.resources
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.ShareForm.resources
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.CUS.resources
+F:\Ihmahmoud\MyProjectApp\IHM\IHMSystem\IHM\obj\Debug\IHM.SUP.resources
