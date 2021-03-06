@@ -86,11 +86,11 @@
     <Compile Include="Project\Cus\PL\CUS.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Project\MainForm\BL\MainComponent.vb" />
-    <Compile Include="Project\MainForm\PL\Main.Designer.vb">
+    <Compile Include="Project\1_MainForm\BL\MainComponent.vb" />
+    <Compile Include="Project\1_MainForm\PL\Main.Designer.vb">
       <DependentUpon>Main.vb</DependentUpon>
     </Compile>
-    <Compile Include="Project\MainForm\PL\Main.vb">
+    <Compile Include="Project\1_MainForm\PL\Main.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Project\Ite\DAT\MatDat.vb" />
@@ -132,7 +132,7 @@
     <EmbeddedResource Include="Project\Cus\PL\CUS.resx">
       <DependentUpon>CUS.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Project\MainForm\PL\Main.resx">
+    <EmbeddedResource Include="Project\1_MainForm\PL\Main.resx">
       <DependentUpon>Main.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Project\Ite\PL\MAT.resx">

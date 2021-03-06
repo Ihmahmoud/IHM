@@ -110,9 +110,9 @@ Partial Class MAT
         Me.lpItemConsumerPrice.Font = New System.Drawing.Font("Times New Roman", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lpItemConsumerPrice.Location = New System.Drawing.Point(526, 13)
         Me.lpItemConsumerPrice.Name = "lpItemConsumerPrice"
-        Me.lpItemConsumerPrice.Size = New System.Drawing.Size(95, 15)
+        Me.lpItemConsumerPrice.Size = New System.Drawing.Size(122, 15)
         Me.lpItemConsumerPrice.TabIndex = 7
-        Me.lpItemConsumerPrice.Text = "Consumer Price "
+        Me.lpItemConsumerPrice.Text = "Item Consumer Price "
         '
         'gpItems1
         '

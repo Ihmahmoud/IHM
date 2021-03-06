@@ -16,8 +16,9 @@
         Style()
     End Sub
     Private Sub CUSData()
-        'SUP_Form.txCustomerSerial.Text = GetData.Get_MAX_Serial()
+        SUP_Form.txSupplierSerial.Text = GetData.Get_MAX_NUM()
     End Sub
+
     Private Sub CheckOpenForm()
         SUP_Form.MdiParent = Main
         If SUP_Form Is Nothing OrElse SUP_Form.IsDisposed Then
